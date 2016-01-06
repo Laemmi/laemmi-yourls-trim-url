@@ -8,7 +8,6 @@ Trim the withespace before and after the orignial url before adding and editing.
 * In /user/plugins, create a new folder named laemmi-yourls-trim-url.
 * Drop these files in that directory.
 * Via git goto /users/plugins and type git clone https://github.com/Laemmi/laemmi-yourls-trim-url.git
-* change config value YOURLS_SITE
 
 ## License
 Copyright (c) 2016 Michael Lämmlein <laemmi@spacerabbit.de>
